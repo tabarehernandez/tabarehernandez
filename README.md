@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi 👋
 My Skills:
 
 
@@ -15,7 +15,7 @@ My Skills:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![java ](https://img.shields.io/badge/Java-ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
-Contact:
+### Contact:
 
 <a href="https://www.linkedin.com/in/tabare-hernandez-2319766b/">![linkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
